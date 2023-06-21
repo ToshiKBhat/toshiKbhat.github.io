@@ -50,7 +50,7 @@ const projects = [
     title: "NRMP",
     cardImage: "assets/images/project-page/nrmp.jpg",
     description: "A python program to simulate the National Resident matching program using applicant proposing algorithm with a test module.",
-    tagimg:"assets/images/project-page/nrmp.jpg"
+    tagimg:"assets/images/project-page/nrmp.jpg",
     Previewlink: "https://github.com/ToshiKBhat/NRMP-Stable_matching",
     Githublink: "https://github.com/ToshiKBhat/NRMP-Stable_matching",
   },
