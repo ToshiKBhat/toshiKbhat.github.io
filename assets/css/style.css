@@ -1,6 +1,7 @@
 @font-face {
-  font-family: "Arial";
-  src: url(../fonts/Arial.woff);
+  @import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&display=swap');
+
+  font-family: 'Mr De Haviland', cursive;
 }
 
 
@@ -229,8 +230,9 @@ html {
 }
 
 .navbar-brand {
-  font-family: Arial;
-  font-size: 30px;
+  
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 28px;
   font-weight: bold;
 }
 
